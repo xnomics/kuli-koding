@@ -1,10 +1,10 @@
 # kuli-koding
 [optional]@root
 
-[center]
-###### main page : http://kuli-koding.tk/ 
+
+                            ###### main page : http://kuli-koding.tk/ 
 ###### blog      : http://kuli-koding.tk/blog || forum     : http://kuli-koding.tk/forum
-[/center]
+
 
 
 
