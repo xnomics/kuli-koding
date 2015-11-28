@@ -1,10 +1,13 @@
 # kuli-koding
 [optional]@root
 
-<center>
+[center]
 ###### main page : http://kuli-koding.tk/ 
 ###### blog      : http://kuli-koding.tk/blog || forum     : http://kuli-koding.tk/forum
-</center>
+[/center]
+
+
+
 ##### List of you and your github repo for this project:
 
 (This is where you can update this readme directly here)
