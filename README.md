@@ -2,9 +2,10 @@
 [optional]@root
 
 
-                            ###### main page : http://kuli-koding.tk/ 
-###### blog      : http://kuli-koding.tk/blog || forum     : http://kuli-koding.tk/forum
-
+###### main page : http://kuli-koding.tk/ 
+###### blog      : http://kuli-koding.tk/blog 
+###### forum     : http://kuli-koding.tk/forum
+##
 
 
 
